@@ -1,0 +1,9 @@
+,delta,dependent,feature_cols,mse_delta,mse_one_step,r2_delta,r2_one_step
+0,True,econtexts,"year,orgs,gdp,alltexts,population,disruptions,taxrevenue,councils,commerce,domesticpolitics,merchants,recharters,daysP",27.2015141462,27.2015141462,0.12072704101,0.714549617513
+1,False,econtexts,"year,orgs,gdp,alltexts,population,disruptions,taxrevenue,councils,commerce,domesticpolitics,merchants,recharters,daysP",28.9652767682,28.9652767682,0.00300512973801,0.676331946588
+2,True,PubSubset,"year,orgs,gdp,alltexts,population,disruptions,taxrevenue,councils,commerce,domesticpolitics,merchants,recharters,daysP",21.6840760052,21.6840760052,0.0885316332661,0.46318989548
+3,False,PubSubset,"year,orgs,gdp,alltexts,population,disruptions,taxrevenue,councils,commerce,domesticpolitics,merchants,recharters,daysP",22.7073459327,22.7073459327,0.000477646007869,0.41133042144
+4,True,philosophy,"year,orgs,gdp,alltexts,population,disruptions,taxrevenue,councils,commerce,domesticpolitics,merchants,recharters,daysP",2.64056154147,2.64056154147,0.0465584185806,0.324442859084
+5,False,philosophy,"year,orgs,gdp,alltexts,population,disruptions,taxrevenue,councils,commerce,domesticpolitics,merchants,recharters,daysP",2.81036322019,2.81036322019,-0.080006594429,0.234765735708
+6,True,politics,"year,orgs,gdp,alltexts,population,disruptions,taxrevenue,councils,commerce,domesticpolitics,merchants,recharters,daysP",54.8539102761,54.8539102761,0.257096841014,0.527449018669
+7,False,politics,"year,orgs,gdp,alltexts,population,disruptions,taxrevenue,councils,commerce,domesticpolitics,merchants,recharters,daysP",62.2874906652,62.2874906652,0.0421032679637,0.390694419236

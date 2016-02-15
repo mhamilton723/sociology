@@ -1,0 +1,3 @@
+[submodule "tseries"]
+	path = tseries
+	url = https://github.com/mhamilton723/tseries
